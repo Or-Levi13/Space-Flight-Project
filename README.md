@@ -12,3 +12,15 @@ Upcoming Earth Level:
 ![alt_text](https://i.imgur.com/kJhNXV5.jpg)
 
 ![alt_text](https://i.imgur.com/jLqOaVJ.jpg)
+
+Implemented AI Space Combat:
+
+![alt_text](https://i.imgur.com/csORKK9.jpg)
+
+![alt_text](https://i.imgur.com/Elz8htY.jpg)
+
+![alt_text](https://i.imgur.com/F4Ik3F8.jpg)
+
+New Alien World:
+
+![alt_text](https://i.imgur.com/wuRutUG.jpg)
