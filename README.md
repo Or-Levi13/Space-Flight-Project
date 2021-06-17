@@ -11,7 +11,7 @@ As you soon find out, this journey is going to be harder than expected, for ther
 
 # Trailer
 
-[![Watch the video](https://i.imgur.com/GlVNfGQ.jpg)](https://www.youtube.com/watch?v=TYfcthSmTQc)
+[![Watch the video](https://i.imgur.com/GlVNfGQ.jpg)](https://www.youtube.com/watch?v=sllka_rICfA)
 
 # Screenshots
 
