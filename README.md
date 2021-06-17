@@ -1,11 +1,21 @@
 # Space-Flight-Project
- Unity 3D space shooter adventure game
+Project made with Unity3D.
 
+Implementing Collisions, Triggers, Navigation, AI Steering and many more elements.
 
-[![Watch the video](https://i.imgur.com/bgd0Bf5.jpg)](https://www.youtube.com/watch?v=1slrcNyiGRI)
+# Plot 
+You are a portal technician, traveling all around the universe fixing faulty portal transmitters.
+One day, during one of your routine checkups on a distant planet, you come across a strange looking creature, clearly not from this world. 
+As the strange creature starts following you around, you decide to postpone your technician duties and go on a journey to return the alien back to his home planet.
+As you soon find out, this journey is going to be harder than expected, for there are many enemies roaming the galaxy that would like to see you fail…
 
+# Trailer
 
-Upcoming Earth Level: 
+[![Watch the video](https://i.imgur.com/GlVNfGQ.jpg)](https://www.youtube.com/watch?v=TYfcthSmTQc)
+
+# Screenshots
+
+Earth Level: 
 
 ![alt text](https://i.imgur.com/rV9Wlgk.jpg)
 
@@ -21,6 +31,3 @@ Implemented AI Space Combat:
 
 ![alt_text](https://i.imgur.com/F4Ik3F8.jpg)
 
-New Alien World:
-
-![alt_text](https://i.imgur.com/wuRutUG.jpg)
