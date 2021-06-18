@@ -9,6 +9,10 @@ One day, during one of your routine checkups on a distant planet, you come acros
 As the strange creature starts following you around, you decide to postpone your technician duties and go on a journey to return the alien back to his home planet.
 As you soon find out, this journey is going to be harder than expected, for there are many enemies roaming the galaxy that would like to see you fail…
 
+# Download The Game
+
+[Click Here](https://levior9.itch.io/space-fighter)
+
 # Trailer
 
 [![Watch the video](https://i.imgur.com/GlVNfGQ.jpg)](https://www.youtube.com/watch?v=sllka_rICfA)
